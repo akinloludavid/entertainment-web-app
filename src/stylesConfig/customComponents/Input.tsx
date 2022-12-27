@@ -11,11 +11,12 @@ const search = {
     fontSize: "24px",
     fontWeight: "300",
     lineHeight: "30px",
+    w: ["100%"],
     color: "#fff",
     _placeholder: {
       color: "#fff",
       opacity: 0.5,
-      fontSize: "24px",
+      fontSize: ["16px", "24px"],
       fontWeight: "300",
       lineHeight: "30px",
     },
